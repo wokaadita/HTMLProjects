@@ -1,0 +1,43 @@
+.logo{
+  font-size: 1px;
+  color:#d1eeee;
+}
+
+b {
+   letter-spacing: 3px;
+   color:	#d1eeee;
+   /* font-size: 25px; */
+}
+.title{
+  color:black;
+}
+.dua{
+  background-color: #1e90ff;
+  height:450px;
+  width:1200px;
+  /* border: 2px solid red; */
+}
+
+.text-center{
+  padding-top:30px;
+}
+
+.h2{
+  color:white;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.display-4 {
+  font-size: 25px !important;
+  color:white;
+  text-align: center;
+}
+
+.dalam{
+  background-color: #ff7f24;
+  margin:30px auto;
+  width:700px;
+  height:600px;
+  border: 10px dashed black;
+}
